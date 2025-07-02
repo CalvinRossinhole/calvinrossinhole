@@ -19,7 +19,7 @@ Main project: [SIGPAE Backend](https://github.com/prefeiturasp/SME-SIGPAE-API) a
 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-Calvin%20Rossinhole-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-rossinhole-308102ba/)
-[![Email](https://img.shields.io/badge/-calvin.masters@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:calvin.mastersgmail.com)
+[![Email](https://img.shields.io/badge/-calvin.masters@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:calvin.masters@gmail.com)
 
 📍 Based in São Paulo, Brazil  
 
